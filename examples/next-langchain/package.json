@@ -14,7 +14,7 @@
     "@ai-sdk/react": "3.0.40",
     "@ai-sdk/langchain": "2.0.43",
     "@langchain/openai": "^1.2.0",
-    "@langchain/core": "^1.1.5",
+    "@langchain/core": "^1.1.8",
     "@langchain/langgraph": "^1.0.5",
     "@langchain/langgraph-cli": "^1.1.2",
     "ai": "6.0.38",
